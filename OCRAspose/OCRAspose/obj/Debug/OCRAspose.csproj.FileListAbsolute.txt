@@ -1,0 +1,10 @@
+c:\users\pcc\documents\visual studio 2012\Projects\OCRAspose\OCRAspose\bin\Debug\OCRAspose.exe.config
+c:\users\pcc\documents\visual studio 2012\Projects\OCRAspose\OCRAspose\bin\Debug\OCRAspose.exe
+c:\users\pcc\documents\visual studio 2012\Projects\OCRAspose\OCRAspose\bin\Debug\OCRAspose.pdb
+c:\users\pcc\documents\visual studio 2012\Projects\OCRAspose\OCRAspose\bin\Debug\Aspose.OCR.dll
+c:\users\pcc\documents\visual studio 2012\Projects\OCRAspose\OCRAspose\obj\Debug\OCRAspose.csprojResolveAssemblyReference.cache
+c:\users\pcc\documents\visual studio 2012\Projects\OCRAspose\OCRAspose\obj\Debug\OCRAspose.Form1.resources
+c:\users\pcc\documents\visual studio 2012\Projects\OCRAspose\OCRAspose\obj\Debug\OCRAspose.Properties.Resources.resources
+c:\users\pcc\documents\visual studio 2012\Projects\OCRAspose\OCRAspose\obj\Debug\OCRAspose.csproj.GenerateResource.Cache
+c:\users\pcc\documents\visual studio 2012\Projects\OCRAspose\OCRAspose\obj\Debug\OCRAspose.exe
+c:\users\pcc\documents\visual studio 2012\Projects\OCRAspose\OCRAspose\obj\Debug\OCRAspose.pdb
